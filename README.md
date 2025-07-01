@@ -6,5 +6,12 @@ A fully responsive, frontend-only food ordering website built with **HTML**, **C
 ![image alt](https://github.com/DS123-ally/Online_Food_Ordering_Website/blob/3f30b1a0afd4141344cf28d6253a61aded86862d/Screenshot%202025-07-01%20203403.png)
 
 
+🔧 Features
 
+- 🏠 Home page with call-to-action sections
+- 🍕 Food menu with images, prices, and descriptions
+- 🛒 Simulated "Add to Cart" feature (non-functional)
+- 📄 Order form (no backend submission)
+- 🔍 Search bar for food filtering
+- 📱 Mobile-friendly responsive design
 
